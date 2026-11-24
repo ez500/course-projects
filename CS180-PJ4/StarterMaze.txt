@@ -1,0 +1,19 @@
+StarterMaze
+Start: 0-0
+End: 1-10
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
+P,P,P,P,P,P,P,P,P,P,P
